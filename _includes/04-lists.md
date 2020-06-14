@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Music I like
+  * Death metal
+  * Folk metal
+  * Progressive metal
+  * Indie
+* My hobbies
+  * Reading
+  * Exchanging memes
+  * Dancing
