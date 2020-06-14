@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*my favorite quotes of **Da Vinci**:*
+
+*"**Learning** never exhausts the mind" <br />
+"Life well spent is long." <br />
+"The noblest pleasure is the joy of **understanding**."* <br />
